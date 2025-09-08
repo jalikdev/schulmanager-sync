@@ -1,0 +1,8 @@
+playwright
+beautifulsoup4
+html5lib
+requests
+icalendar
+python-dateutil
+pytz
+flask
